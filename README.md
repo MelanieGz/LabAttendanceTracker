@@ -1,1 +1,1 @@
-# LabAttendanceTracker
+# Robotics Lab Attendance Tracker
